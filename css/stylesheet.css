@@ -110,6 +110,22 @@ h2 { margin-top: 0; }
     background-color: rgb(153, 0, 0);
     color: white;
 }
+.tm-page-link2 {
+    min-width: 240px;
+    height: 100px;
+    background-color: white;
+    color: rgb(153, 0, 0);
+    display: flex;
+    text-decoration: none;
+    align-items: center;      
+    font-size: 1.2rem;
+}
+
+.tm-page-link2:hover,
+.tm-page-link2.active {
+    background-color: rgb(153, 0, 0);
+    color: white;
+}
 
 .tm-page-link-icon {
     margin-right: 25px;
