@@ -95,7 +95,6 @@ h2 { margin-top: 0; }
 .tm-page-nav-item { margin-top: 20px; }
 
 .tm-page-link {
-	pointers-events: auto;
     min-width: 240px;
     height: 100px;
     background-color: white;
